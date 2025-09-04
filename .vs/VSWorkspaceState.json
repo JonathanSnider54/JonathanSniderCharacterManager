@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Models",
+    "\\public",
+    "\\public\\css",
+    "\\resources",
+    "\\resources\\css",
+    "\\resources\\views",
+    "\\resources\\views\\layouts",
+    "\\tests",
+    "\\tests\\Feature"
+  ],
+  "SelectedNode": "\\app\\Services\\CharacterService.php",
+  "PreviewInSolutionExplorer": false
+}
