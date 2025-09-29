@@ -31,7 +31,7 @@ class CharacterService {
     {
         return Character::create([
             'name' => $data['name'],
-            'class' => $data['class'],
+            'class_id' => $data['class_id'],
             'level' => $data['level'],
             'health_points' => $data['health'],
             'description' => $data['description'] ?? null,
@@ -49,7 +49,7 @@ public function updateCharacter($id, array $data)
 
     $character->update([
         'name' => $data['name'],
-        'class' => $data['class'],
+        'class_id' => $data['class_id'],
         'level' => $data['level'],
         'health_points' => $data['health'],
         'description' => $data['description'] ?? null,

@@ -8,14 +8,19 @@ use Illuminate\Database\Eloquent\SoftDeletes;
 
 class Character extends Model
 {
-    use HasFactory;
-    use SoftDeletes;
+    use HasFactory, SoftDeletes;
 
     protected $fillable = [
-    'name',
-    'class',
-    'level',
-    'health',
-    'description',
-];
+        'name',
+        'class_id',      
+        'level',
+        'health',
+        'description',
+    ];
+
+    public function characterClass()
+    {
+        return $this->belongsTo(CharacterClass::class, 'class_id');
+    }
+
 }

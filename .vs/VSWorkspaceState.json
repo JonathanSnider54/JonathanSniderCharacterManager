@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\Models",
-    "\\public",
-    "\\public\\css",
-    "\\resources",
-    "\\resources\\css",
-    "\\resources\\views",
-    "\\resources\\views\\layouts",
-    "\\tests",
-    "\\tests\\Feature"
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Providers",
+    "\\app\\Services",
+    "\\database",
+    "\\database\\factories",
+    "\\database\\migrations",
+    "\\routes"
   ],
+  "SelectedNode": "\\app\\Models\\Ability.php",
   "PreviewInSolutionExplorer": false
 }

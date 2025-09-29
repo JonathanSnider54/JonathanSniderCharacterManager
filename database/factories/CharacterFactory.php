@@ -17,10 +17,9 @@ class CharacterFactory extends Factory
     public function definition(): array
     {
      $names = ['Big Hat Jim', 'Grognak the Punisher', 'Stabby', 'Stabby Jr.', 'Pyro'];
-     $class = ['Warrior', 'Archer', 'Wizard'];
         return [
         'name'=> $this->faker->unique()->randomElement($names),
-        'class'=>$this->faker->randomElement($class),
+        'class_id'=>$this->faker->numberBetween(1, 3),
         'health' => $this->faker->numberBetween(1, 80),
         'level'=> $this->faker->numberBetween(1, 100)
         ];

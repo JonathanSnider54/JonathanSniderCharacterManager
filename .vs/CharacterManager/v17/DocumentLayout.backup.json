@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Herd\\CharacterManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\app\\Services\\CharacterService.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Services\\CharacterService.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersShow.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\components\\charactersShow.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\app\\Http\\Controllers\\CharacterController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\CharacterController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\database\\migrations\\2025_09_04_043739_create_abilities_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2025_09_04_043739_create_abilities_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\Ability.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Ability.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\Character.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Character.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\public\\css\\style.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\css\\style.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\CharacterClass.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\CharacterClass.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersShow.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\components\\charactersShow.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\app\\Http\\Controllers\\CharacterController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\CharacterController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\character-list.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\components\\character-list.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\app\\Services\\CharacterService.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Services\\CharacterService.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersIndex.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\components\\charactersIndex.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersEdit.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\components\\charactersEdit.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\app\\Http\\Controllers\\Controller.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\Controller.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\routes\\console.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\console.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\home.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -43,16 +51,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\layouts\\app.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\database\\migrations\\2025_09_02_042315_create_characters_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2025_09_02_042315_create_characters_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersIndex.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\components\\charactersIndex.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersCreate.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\components\\charactersCreate.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,164 +66,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Controller.php",
-              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Http\\Controllers\\Controller.php",
-              "RelativeDocumentMoniker": "app\\Http\\Controllers\\Controller.php",
-              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Http\\Controllers\\Controller.php",
-              "RelativeToolTip": "app\\Http\\Controllers\\Controller.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "2025_09_04_043739_create_abilities_table.php",
+              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\database\\migrations\\2025_09_04_043739_create_abilities_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2025_09_04_043739_create_abilities_table.php",
+              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\database\\migrations\\2025_09_04_043739_create_abilities_table.php",
+              "RelativeToolTip": "database\\migrations\\2025_09_04_043739_create_abilities_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-04T13:14:20.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CharacterService.php",
-              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Services\\CharacterService.php",
-              "RelativeDocumentMoniker": "app\\Services\\CharacterService.php",
-              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Services\\CharacterService.php",
-              "RelativeToolTip": "app\\Services\\CharacterService.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-04T13:06:31.997Z",
+              "WhenOpened": "2025-09-29T07:12:42.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "character-list.blade.php",
-              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\character-list.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\components\\character-list.blade.php",
-              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\character-list.blade.php",
-              "RelativeToolTip": "resources\\views\\components\\character-list.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-04T13:02:18.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "charactersIndex.blade.php",
-              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersIndex.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\components\\charactersIndex.blade.php",
-              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersIndex.blade.php",
-              "RelativeToolTip": "resources\\views\\components\\charactersIndex.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-04T13:02:01.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "home.blade.php",
-              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\home.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\home.blade.php",
-              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\home.blade.php",
-              "RelativeToolTip": "resources\\views\\home.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-04T12:37:28.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CharacterController.php",
-              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Http\\Controllers\\CharacterController.php",
-              "RelativeDocumentMoniker": "app\\Http\\Controllers\\CharacterController.php",
-              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Http\\Controllers\\CharacterController.php",
-              "RelativeToolTip": "app\\Http\\Controllers\\CharacterController.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-02T18:36:29.191Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Character.php",
-              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\Character.php",
-              "RelativeDocumentMoniker": "app\\Models\\Character.php",
-              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\Character.php",
-              "RelativeToolTip": "app\\Models\\Character.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Title": "Ability.php",
+              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\Ability.php",
+              "RelativeDocumentMoniker": "app\\Models\\Ability.php",
+              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\Ability.php",
+              "RelativeToolTip": "app\\Models\\Ability.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-02T18:33:22.825Z"
+              "WhenOpened": "2025-09-29T07:12:18.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "charactersShow.blade.php",
               "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersShow.blade.php",
               "RelativeDocumentMoniker": "resources\\views\\components\\charactersShow.blade.php",
               "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersShow.blade.php",
               "RelativeToolTip": "resources\\views\\components\\charactersShow.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-04T10:10:31.719Z"
+              "WhenOpened": "2025-09-29T07:02:46.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CharacterService.php",
+              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Services\\CharacterService.php",
+              "RelativeDocumentMoniker": "app\\Services\\CharacterService.php",
+              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Services\\CharacterService.php",
+              "RelativeToolTip": "app\\Services\\CharacterService.php",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T07:00:30.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "web.php",
+              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\routes\\web.php",
+              "RelativeDocumentMoniker": "routes\\web.php",
+              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\routes\\web.php",
+              "RelativeToolTip": "routes\\web.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T06:56:08.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "charactersEdit.blade.php",
+              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersEdit.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\components\\charactersEdit.blade.php",
+              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersEdit.blade.php",
+              "RelativeToolTip": "resources\\views\\components\\charactersEdit.blade.php",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T06:50:15.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterController.php",
+              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Http\\Controllers\\CharacterController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\CharacterController.php",
+              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Http\\Controllers\\CharacterController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\CharacterController.php",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T06:31:39.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharacterClass.php",
+              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\CharacterClass.php",
+              "RelativeDocumentMoniker": "app\\Models\\CharacterClass.php",
+              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\CharacterClass.php",
+              "RelativeToolTip": "app\\Models\\CharacterClass.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T06:27:54.011Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\public\\css\\style.css",
-              "RelativeDocumentMoniker": "public\\css\\style.css",
-              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\public\\css\\style.css",
-              "RelativeToolTip": "public\\css\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-04T12:52:15.248Z"
+              "Title": "Character.php",
+              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\Character.php",
+              "RelativeDocumentMoniker": "app\\Models\\Character.php",
+              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\Character.php",
+              "RelativeToolTip": "app\\Models\\Character.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T05:51:41.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "console.php",
+              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\routes\\console.php",
+              "RelativeDocumentMoniker": "routes\\console.php",
+              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\routes\\console.php",
+              "RelativeToolTip": "routes\\console.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T06:56:07.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "home.blade.php",
+              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\home.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\home.blade.php",
+              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\home.blade.php",
+              "RelativeToolTip": "resources\\views\\home.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T06:56:02.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "app.blade.php",
               "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\layouts\\app.blade.php",
               "RelativeDocumentMoniker": "resources\\views\\layouts\\app.blade.php",
               "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\layouts\\app.blade.php",
               "RelativeToolTip": "resources\\views\\layouts\\app.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-04T08:06:32.55Z"
+              "WhenOpened": "2025-09-29T06:55:58.716Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "2025_09_02_042315_create_characters_table.php",
-              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\database\\migrations\\2025_09_02_042315_create_characters_table.php",
-              "RelativeDocumentMoniker": "database\\migrations\\2025_09_02_042315_create_characters_table.php",
-              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\database\\migrations\\2025_09_02_042315_create_characters_table.php",
-              "RelativeToolTip": "database\\migrations\\2025_09_02_042315_create_characters_table.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "charactersIndex.blade.php",
+              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersIndex.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\components\\charactersIndex.blade.php",
+              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersIndex.blade.php",
+              "RelativeToolTip": "resources\\views\\components\\charactersIndex.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-02T06:47:26.782Z"
+              "WhenOpened": "2025-09-29T06:54:16.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "charactersCreate.blade.php",
               "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersCreate.blade.php",
               "RelativeDocumentMoniker": "resources\\views\\components\\charactersCreate.blade.php",
               "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\resources\\views\\components\\charactersCreate.blade.php",
               "RelativeToolTip": "resources\\views\\components\\charactersCreate.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-04T07:50:08.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User.php",
-              "DocumentMoniker": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\User.php",
-              "RelativeDocumentMoniker": "app\\Models\\User.php",
-              "ToolTip": "C:\\Users\\User\\Herd\\CharacterManager\\app\\Models\\User.php",
-              "RelativeToolTip": "app\\Models\\User.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-02T18:37:29.176Z"
+              "WhenOpened": "2025-09-29T06:30:49.769Z",
+              "EditorCaption": ""
             }
           ]
         }

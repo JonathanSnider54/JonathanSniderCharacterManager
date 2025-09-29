@@ -6,6 +6,8 @@ use Illuminate\Http\Request;
 
 use App\Services\CharacterService;
 
+use App\Models\CharacterClass;
+
 class CharacterController extends Controller
 {
 
@@ -44,6 +46,18 @@ public function store(Request $request, CharacterService $characterService)
     'health.min' => 'Health points must be at least 1.',
 ]);
 
+
+   $classId = CharacterClass::where('name', ucfirst($validated['class']))->value('id');
+
+    if (!$classId) {
+        return back()->withErrors(['class_id' => 'Invalid class selected.']);
+    }
+
+    //adding the class Id foreign key for the character classes table
+    //and removing the string from the dropdown from the array about to be sent because that is not part of characters anymore
+    $validated['class_id'] = $classId;
+    unset($validated['class']); 
+
     $characterService->createCharacter($validated);
 
     return redirect()->route('characters.index')->with('success', 'Character created successfully. Welcome to the Realm!');
@@ -56,6 +70,8 @@ public function show($id, CharacterService $characterService)
     if (!$character) {
         abort(404, 'That character does not exist');
     }
+
+    $character->load('characterClass.abilities');
 
     return view('components.charactersShow', compact('character'));
 }
@@ -91,6 +107,19 @@ public function update(Request $request, $id, CharacterService $characterService
         'health.integer' => 'Health points must be a number between 1 and 80.',
         'health.min' => 'Health points must be at least 1.',
     ]);
+
+
+       $classId = CharacterClass::where('name', ucfirst($validated['class']))->value('id');
+
+    if (!$classId) {
+        return back()->withErrors(['class_id' => 'Invalid class selected.']);
+    }
+
+    //adding the class Id foreign key for the character classes table
+    //and removing the string from the dropdown from the array about to be sent because that is not part of characters anymore
+    $validated['class_id'] = $classId;
+    unset($validated['class']);
+
 
     $characterService->updateCharacter($id, $validated);
 
